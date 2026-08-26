@@ -9,12 +9,11 @@ O objetivo é documentar minha jornada de aprendizado, com foco em administraç�
 - Registrar minha evolução na área
 
 ## Estrutura dos Laboratórios
-- 01 - Identidades: Gerenciamento de usuários e grupos no Azure AD  
-- 02 - Governança e Conformidade: Políticas, RBAC e controle de acesso  
-- 03 - Armazenamento: Configuração de contas e segurança de dados  
-- 04 - Computação: Criação e administração de máquinas virtuais  
-- 05 - Redes: Configuração de VNets, NSGs e balanceadores  
-- 06 - Monitoramento Logs, métricas e alertas  
+- 01 - Identidades e Governança
+- 02 - Armazenamento
+- 03 - Computação
+- 04 - Redes
+- 05 - Monitoramento
 
 Cada pasta contém scripts, documentação e anotações práticas.
 
