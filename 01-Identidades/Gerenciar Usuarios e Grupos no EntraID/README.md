@@ -1,4 +1,4 @@
-Resumo | Gerenciar usuários e grupos do Microsoft Entra ID Gerenciar usuários e grupos do Microsoft Entra ID
+ Gerenciar usuários e grupos do Microsoft Entra ID
 
 Microsoft Entra ID: Pilar da Nuvem da Microsoft
 
