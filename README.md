@@ -21,7 +21,8 @@ Cada pasta contém scripts, documentação e anotações práticas.
 ## Tecnologias utilizadas
 - Microsoft Azure  
 - PowerShell  
-- Azure CLI  
+- Azure CLI
+- ARM /Bicep 
 - Git & GitHub  
 
 ## Conecte-se comigo
