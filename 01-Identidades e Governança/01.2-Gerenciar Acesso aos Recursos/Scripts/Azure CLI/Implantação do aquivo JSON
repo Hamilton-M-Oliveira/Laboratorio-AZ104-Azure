@@ -1,1 +1,10 @@
+# Login no Azure
+az login
+
+
+# Create Custom Role
+az role definition create --role-definition "@rbac-custom-role.json"
+
+# Atribuir Custom Role
+az role assignment create --assignee "xxxxx" --role "Virtual Machine Operator Custom Role"
 
